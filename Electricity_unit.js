@@ -34,4 +34,4 @@ let units = 150;
 let amount = calculateElectricityBill(units);
 
 console.log("Units:", units);
-console.log("Electricity Bill:", amount);
+console.log("Electricity Bill: ", amount);
